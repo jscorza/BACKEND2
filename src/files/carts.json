@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cart24d585bf-e87e-42a6-8d6c-c7f4c39a104d",
+    "products": [
+      {
+        "id": "c628627f-ec71-402b-8a3a-5568a6763a53",
+        "quantity": 3
+      },
+      {
+        "id": "12212221",
+        "quantity": 1
+      },
+      {
+        "id": "aa",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "cartb3d7217b-bfb4-4918-906e-1820e902a302",
+    "products": []
+  }
+]
