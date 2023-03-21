@@ -1,5 +1,5 @@
 import fs from 'fs/promises'
-import Product from '../components/product.js'
+
 
 export class ProductsManager {
     #products

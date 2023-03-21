@@ -12,8 +12,8 @@ const productManager = new ProductsManager(path)
 productsRouter.get('/', async (req, res, next) => {
     try {
         const products = await productManager.getProducts()
-        if(pet.query["limit"]){
-            res.json(products.slice(0,pet.query["limit"]))
+        if(req.query["limit"]){
+            res.json(products.slice(0,req.query["limit"]))
             
     
         }else{
